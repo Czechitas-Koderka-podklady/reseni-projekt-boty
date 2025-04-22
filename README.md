@@ -1,6 +1,6 @@
-# Bonusový úkol: Boty
+# Řešení: Boty
 
-Bonusový úkol pro kurz Staň se kóderkou od Czechitas. Tento úkol se neodevzdává a nehodnotí. Vypracuj si ho pro sebe jako trénink kódování CSS. Toto je **těžší** varianta úkolu, více se dozvíš v sekci obtížnosti úkolu.
+*Řešení cvičného projektu pro kurz Staň se kóderkou od Czechitas.*
 
 - [Cíl úkolu](#Cíl-úkolu)
 - [Obtížnosti](#Obtížnosti)
